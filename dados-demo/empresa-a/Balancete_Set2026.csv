@@ -1,0 +1,52 @@
+﻿Conta;Descricao;Debito;Credito;Saldo
+11;Caixa;2500,00;0,00;2500,00
+1201;Banco Demo, S.A. – c/ PT50 0099 0123 9730 9114 1701 4;2740760,80;2397385,91;343374,89
+211001;Confeções Demo do Norte, Lda.;928892,00;803416,32;125475,68
+211002;Moda Demo Lisboa, S.A.;618928,00;535610,88;83317,12
+211003;Tessuti Demo S.r.l. (Itália);637500,00;544320,00;93180,00
+211004;Têxteis Lar Demo Hotelaria, Lda.;464446,00;401708,16;62737,84
+211005;Uniformes Demo, Lda.;308464,00;267805,44;40658,56
+221001;Fios da Serra Demo, Lda.;872599,39;1046477,60;-173878,21
+221002;Química Têxtil Demo, S.A.;373971,17;447490,40;-73519,23
+221003;Energia Demo Comercializadora, S.A.;254092,77;328187,79;-74095,02
+221004;Transportes Demo Beira, Lda.;68673,70;93145,34;-24471,64
+221005;Acabamentos Demo, Unipessoal Lda.;151082,20;197219,78;-46137,58
+221006;Serviços Demo Gestão e Contabilidade, Lda.;212888,55;245043,31;-32154,76
+2311;Remunerações a pagar ao pessoal;217791,95;217791,90;0,05
+2421;Retenção de impostos sobre rendimentos – trabalho dependente;33262,75;42841,60;-9578,85
+2432;IVA dedutível;392948,74;0,00;392948,74
+2433;IVA liquidado;0,00;391230,00;-391230,00
+245;Contribuições para a Segurança Social;96323,43;120389,22;-24065,79
+2511;Empréstimos bancários;90000,00;600000,00;-510000,00
+33;Matérias-primas, subsidiárias e de consumo;1263600,00;1098900,00;164700,00
+34;Produtos acabados e intermédios;111800,00;800,00;111000,00
+433;Equipamento básico;3420000,00;0,00;3420000,00
+438;Depreciações acumuladas;0,00;1161500,00;-1161500,00
+51;Capital subscrito;0,00;250000,00;-250000,00
+551;Reservas legais;0,00;50000,00;-50000,00
+56;Resultados transitados;0,00;1063400,00;-1063400,00
+5931;Subsídios ao investimento;84375,00;1012500,00;-928125,00
+612;Matérias-primas, subsidiárias e de consumo;1098900,00;0,00;1098900,00
+621;Subcontratos;133512,01;0,00;133512,01
+6221;Trabalhos especializados;36412,37;0,00;36412,37
+6224;Honorários;24274,91;0,00;24274,91
+6226;Conservação e reparação;48549,82;0,00;48549,82
+6241;Eletricidade;169924,38;0,00;169924,38
+6242;Combustíveis;36412,37;0,00;36412,37
+6243;Água;18206,18;0,00;18206,18
+6253;Transportes de mercadorias;60687,28;0,00;60687,28
+6261;Rendas e alugueres;30343,64;0,00;30343,64
+6262;Comunicação;6068,73;0,00;6068,73
+6263;Seguros;18206,18;0,00;18206,18
+6267;Limpeza, higiene e conforto;24274,91;0,00;24274,91
+632;Remunerações do pessoal;282846,65;0,00;282846,65
+635;Encargos sobre remunerações;67176,07;0,00;67176,07
+636;Seguros de acidentes no trabalho;4242,70;0,00;4242,70
+642;Ativos fixos tangíveis;256500,00;0,00;256500,00
+6812;Impostos indiretos;7800,00;0,00;7800,00
+6911;Juros de financiamentos obtidos;18900,00;0,00;18900,00
+711;Vendas de produtos acabados;0,00;2197800,00;-2197800,00
+721;Serviços de acabamento a terceiros;0,00;70200,00;-70200,00
+73;Variações nos inventários da produção;800,00;15800,00;-15000,00
+751;Subsídios do Estado e outros entes;0,00;3600,00;-3600,00
+7883;Imputação de subsídios para investimentos;0,00;84375,00;-84375,00

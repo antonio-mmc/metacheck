@@ -1,0 +1,61 @@
+/** Company A answer sheet, section 4. Case D cost corrected on 26 Oct 2026: 6,575.63. */
+
+export const section4 = {
+  monthlyGraduateEuro: 2_191.88,
+  A: {
+    jobs: 27.78,
+    qualified: 29.17,
+    valueAdded: 19.95,
+    roPct: 66.58,
+    cutEuro: 25_000,
+    costToYearEnd: 4_383.75,
+    annualCost: 26_302.5,
+  },
+  B: {
+    jobs: 27.78,
+    qualified: 20.83,
+    valueAdded: 19.95,
+    roPct: 65.89,
+    cutEuro: 37_500,
+    costToYearEnd: 2_922.5,
+    annualCost: 17_535,
+  },
+  C: {
+    jobs: 33.33,
+    qualified: 37.5,
+    valueAdded: 14.98,
+    roPct: 70.75,
+    cutEuro: 0,
+    costToYearEnd: 8_767.5,
+    annualCost: 52_605,
+  },
+  D: {
+    jobs: 30.56,
+    qualified: 33.33,
+    valueAdded: 17.45,
+    roPct: 68.67,
+    cutEuro: 12_500,
+    costToYearEnd: 6_575.63,
+    annualCost: 26_302.5,
+  },
+  E: {
+    jobs: 22.22,
+    qualified: 20.83,
+    valueAdded: 25,
+    turnover: 115.17,
+    roPct: 70.08,
+    cutEuro: 0,
+    effortPct: 8.86,
+  },
+  F: {
+    jobs: 27.78,
+    qualified: 29.17,
+    valueAdded: 19.95,
+    roPct: 66.58,
+    cutEuro: 25_000,
+  },
+  quarters: {
+    q1: { asOf: "2026-03-31", roPct: 58.99, cutEuro: 75_000 },
+    q2: { asOf: "2026-06-30", roPct: 73.39, cutEuro: 0 },
+  },
+} as const;

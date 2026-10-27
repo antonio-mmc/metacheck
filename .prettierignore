@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+coverage
+contexto
+dados-demo
+pitch
+.fotos
+package-lock.json

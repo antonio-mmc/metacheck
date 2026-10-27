@@ -1,0 +1,251 @@
+
+SpaceXAI Digital Transformation Lab
+Portuguese SMEs turn a real business challenge into an AI solution in 2 days
+O Hackathon para PME
+Ad You bring your business, we handle the AI agents.
+Ardaven is a platform to build and deploy fully customised AI agents. Connected to your tools, trained on your context, and shipped with GDPR and EU AI Act compliance. 
+Your business runs on processes built for a different era
+LayerX helps you redesign them with AI, from the first conversation to a working solution inside your team.
+
+
+86 Participants, Organization SpaceXAI, Industries Artificial Intelligence
+Nos dias 26 e 27 de outubro, no Forum Braga, as PME portuguesas vão passar dois dias a resolver um problema real do seu negócio com apoio de especialistas e ferramentas de IA. Sem teoria, sem paineis. Só trabalho prático num problema que a sua empresa escolhe.
+
+1. O que vai construir
+Traga um desafio real da sua empresa. Saia com uma solução de IA que pode pôr a funcionar.
+
+Cada empresa participante traz um problema concreto do seu negócio: por exemplo, um processo interno lento, uma tarefa repetitiva, dados difíceis de aproveitar, ou uma nova funcionalidade que gostava de testar. Ao longo de dois dias, a equipa trabalha nesse problema com apoio direto de mentores e Field Engineers da SpaceXAI, e sai com uma solução, protótipo ou workflow que pode continuar a desenvolver depois.
+
+O primeiro dia começa com sessões práticas curtas para conhecer as ferramentas, seguidas de tempo dedicado a construir. O segundo dia é para continuar a desenvolver, terminando com uma apresentação de 5 minutos a um júri.
+
+2. Como se candidatar
+Clique no botão de candidatura nesta página para preencher o formulário oficial do IAPMEI. Vai precisar de informação sobre a sua empresa, a sua equipa (1 a 5 pessoas) e o problema que quer trabalhar durante o Lab.
+
+As candidaturas fecham a 16 de outubro de 2026, às 23:59. As vagas são limitadas e há um processo de seleção. Candidatar-se não garante um lugar.
+
+3. Depois de se candidatar
+As candidaturas são avaliadas pela SpaceXAI, IAPMEI e Startup Portugal. Se a sua empresa for selecionada, cada elemento da equipa recebe um convite individual por email para a plataforma onde o Lab vai decorrer. Cada pessoa precisa de aceitar o próprio convite para criar a sua conta, por isso, confirme que todos os emails da equipa estão corretos na candidatura.
+
+4. A entrar na plataforma
+Depois de aceitar o convite e criar conta, pode explorar a plataforma antes do evento. Quando o Lab arrancar, vai aparecer um botão para criar o seu projeto. Ao clicar, dê um nome ao projeto (normalmente o nome da sua empresa) e adicione os restantes elementos da equipa.
+
+5. A construir a página do seu projeto
+Dentro do projeto, a sua equipa pode adicionar uma imagem de capa, o logotipo da empresa, e uma descrição detalhada do problema e da solução. Antes do final do Lab, a submissão deve incluir:
+
+Introdução ao problema que escolheu trabalhar
+Demonstração da solução desenvolvida
+Resumo dos resultados alcançados
+Um documento ou apresentação com a arquitetura da solução, o tipo de sistema de origem e os domínios de dados envolvidos
+A apresentação final, obrigatoriamente em inglês
+Normalmente isto significa entregar um pitch deck, uma demonstração ao vivo ou gravada, e opcionalmente um link para o repositório GitHub ou para o website do projeto. É aqui que mostra o trabalho ao júri, por isso vale a pena ir atualizando ao longo dos dois dias.
+
+6. Local do evento
+O Lab decorre no Forum Braga (Altice Forum Braga), Av. Dr. Francisco Pires Gonçalves, 4715-558 Braga, Portugal. As sessões de trabalho realizam-se nas salas de congresso do Piso 1 - CC1 e Foyer, com salas adicionais a confirmar.
+
+7. Prémios
+As três melhores equipas do Lab recebem créditos SpaceXAI para continuar a usar as ferramentas depois do evento:
+
+1º lugar: 2.000 USD em créditos Grok Build ou Cursor
+2º lugar: 1.000 USD em créditos Grok Build ou Cursor
+3º lugar: 500 USD em créditos Grok Build ou Cursor
+Todas as empresas participantes, vencedoras ou não, recebem um mês grátis da versão Enterprise, com utilizadores e utilização ilimitados.
+
+8. Critérios de avaliação
+O júri avalia cada projeto segundo quatro critérios:
+
+Inovação e originalidade (30%)
+Implementacao tecnica (30%)
+Impacto e potencial (20%)
+Apresentação e demonstração (20%)
+9. Quem se pode candidatar
+Empresas portuguesas certificadas como PME. Qualquer setor pode candidatar-se, com excepção de usos ligados à defesa, armamento, ou atividades ilegais ou abusivas. O Lab decorre inteiramente em inglês, sem tradução.
+
+10. Datas importantes
+Candidaturas abertas: 16 de setembro de 2026
+Fecho de candidaturas: 16 de outubro de 2026, 23:59
+O Lab: 26 e 27 de outubro de 2026, no Forum Braga
+Submissão dos projetos: 27 de outubro, antes das apresentações finais
+Apresentações, avaliação e resultados: tarde de 27 de outubro
+Iniciativa da SpaceXAI, organizada com o IAPMEI e a Startup Portugal, com o apoio da Invest Braga.
+Timeline Europe/Lisbon (UTC+1)
+16/09/2026 00:00
+Registration
+26/10/2026 08:30
+Event Days
+27/10/2026 13:00
+Submission Deadline
+27/10/2026 14:00
+Judging Period
+Voting tracks
+Jury Judging
+27/10/2026 16:00
+Results
+
+Agenda (Versão Portuguesa)
+Dia 1: Aprender e Construir
+
+08:30 - 09:30 - Check-in e café de boas-vindas
+09:30 - 10:00 - Boas-vindas e abertura
+10:00 - 11:00 - Formação de equipas
+11:00 - 11:30 - Masterclass Cursor: sessão liderada por Field Engineers, cobrindo fundamentos do Cursor, Agents, Cloud Agents, regras do Cursor e integrações MCP. Prática, sem slides.
+11:30 - 12:00 - Definição do problema: cada equipa define o seu problema de negócio com apoio dos Field Engineers. Apenas problemas reais - processos internos, automatização, pipelines de dados, funcionalidades para clientes.
+12:00 - 13:00 - Sessão de construção 1: as equipas começam a construir do zero com o Cursor, com Field Engineers a circular para apoio prático.
+13:00 - 14:00 - Almoço e networking
+14:00 - 17:30 - Sessão de construção 2: trabalho aprofundado, com Field Engineers disponíveis para apoio individual. Ponto de situação às 16:00 para as equipas partilharem progresso.
+17:30 - 18:00 - Fecho do Dia 1: cada equipa partilha o que construiu, dificuldades encontradas, e plano para o Dia 2.
+18:00 - 19:30 - Bebidas e networking informal
+Dia 2: Finalizar e Apresentar
+
+08:30 - 09:00 - Café de boas-vindas
+09:00 - 09:15 - Abertura e recapitulação
+09:15 - 12:00 - Sessão de construção 3: sprint final, com as equipas a aperfeiçoar os seus projetos e os Field Engineers a ajudar com testes e casos limite.
+12:00 - 13:00 - Almoço
+13:00 - 14:00 - Preparação das apresentações: as equipas preparam a apresentação de 5 minutos, com apoio dos Field Engineers na narrativa - qual era o problema, como o Cursor ajudou a resolvê-lo, qual o impacto.
+14:00 - 15:30 - Apresentações: cada equipa apresenta (5 minutos + 3 minutos de perguntas).
+15:30 - 16:00 - Avaliação e prémios: o júri avalia os projetos segundo os critérios de inovação e originalidade (30%), implementação técnica (30%), impacto e potencial (20%), e apresentação e demonstração (20%). São anunciados os vencedores.
+16:00 - 16:30 - Encerramento: com representante do governo (a confirmar) e a Cursor, incluindo os próximos passos para as PME participantes.
+16:30 - 17:30 - Networking e conversas individuais com a equipa da Cursor
+Todos os horários em hora de Lisboa.
+
+Regras e Termos (Versão Portuguesa)
+
+Antes de ler estas Regras, recomendamos que consulte também os Termos e Condições Gerais e a Política de Privacidade da plataforma TAIKAI, aceites por qualquer participante ao criar conta em taikai.network.
+
+1. Organização do evento
+TAIKAI S.A., sociedade registada na Conservatória do Registo Comercial portuguesa sob o número 515012718, com sede social e capital social de 58.656,68 euros (adiante designada "TAIKAI"), organiza o SpaceXAI Digital Transformation Lab (adiante designado "Evento"), que decorre nos dias 26 e 27 de outubro de 2026, no Forum Braga, Braga, Portugal. A TAIKAI é considerada a organizadora do Evento (adiante designada "Organizador"), em parceria com Cursor / SpaceXAI, IAPMEI, Startup Portugal e Invest Braga.
+
+2. Definições
+"Prémios": os prémios atribuídos às equipas vencedoras no final do Evento.
+"Problema" ou "Desafio": o problema de negócio real submetido por cada empresa candidata.
+"Direitos de Propriedade Intelectual": todos os direitos de propriedade a nível mundial sobre desenhos, segredos comerciais, direitos de autor, know-how, software e demais direitos industriais como marcas ou patentes.
+"Projeto": o conjunto de submissões, ideias originais, documentos ou outros materiais (apresentações, vídeos, código, websites, etc.) carregados na plataforma pela Equipa como solução ao problema apresentado.
+"Júri": o painel responsável por avaliar e selecionar os Projetos vencedores.
+"Participante": qualquer pessoa registada de acordo com estas Regras que integre uma Equipa participante.
+"Equipa": o grupo de 1 a 5 pessoas, todas colaboradoras da mesma empresa candidata, criado na plataforma para participar no Evento.
+"Vencedor" ou "Vencedores": os membros das 3 Equipas classificadas em primeiro, segundo e terceiro lugar pelo Júri.
+3. Objetivo das regras
+Estas Regras definem os termos e condições de participação no Evento organizado pela TAIKAI, em complemento aos Termos e Condições Gerais e à Política de Privacidade da plataforma TAIKAI. Em caso de inconsistência, estas Regras prevalecem. O Evento depende do trabalho, criatividade e competência técnica das Equipas, nunca de sorte ou azar, pelo que não pode ser considerado, nem assemelhado, a uma lotaria.
+
+4. Condições de participação
+A participação no Evento é gratuita.
+O Participante deve ler estas Regras e aceitá-las integralmente antes da sua participação.
+A participação está reservada a empresas portuguesas certificadas como PME, com uma Equipa de 1 a 5 pessoas, todas colaboradoras dessa empresa. Não existe restrição de setor de atividade, exceto para usos ligados à defesa, armamento, ou atividades ilegais ou abusivas.
+A candidatura é feita através do formulário oficial do IAPMEI, com seleção prévia das empresas participantes pelo Organizador, IAPMEI e Startup Portugal.
+Qualquer Participante e/ou Equipa que não respeite estas Regras poderá ser desqualificado a qualquer momento, sem aviso prévio, perdendo o direito a qualquer Prémio.
+5. Inscrição e acesso ao evento
+Após selecionada, cada empresa recebe um convite individual por email para cada membro da Equipa, para criar conta na plataforma TAIKAI, indicando um nome de utilizador válido, um email válido e uma password válida, e aceitando os Termos e Condições Gerais e a Política de Privacidade da TAIKAI. Uma inscrição com informação incorreta, duvidosa ou incompleta poderá desqualificar o Participante e/ou a sua Equipa.
+
+Ao inscrever-se, o Participante aceita ser contactado por email pelo Organizador durante a sua participação no Evento.
+
+6. Duração do evento
+O Evento decorre presencialmente, ao longo de dois dias, nos dias 26 e 27 de outubro de 2026, no Forum Braga, Braga, Portugal. Todas as datas e horas indicadas referem-se ao fuso horário de Lisboa. O Organizador reserva-se o direito de ajustar a duração do Evento por motivos operacionais, informando os Participantes com a antecedência possível.
+
+7. Princípio do evento
+O Evento consiste em Equipas de 1 a 5 pessoas construindo, a partir do zero, uma solução de IA aplicada a um problema de negócio real da sua empresa, dentro da janela de trabalho definida na secção 6. A solução deve ser apresentada em inglês - nenhuma outra língua será aceite para a apresentação final nem para a submissão do Projeto.
+
+8. Entregáveis
+Antes do final do período de construção, cada Equipa deve publicar na plataforma a descrição do seu Projeto, incluindo:
+
+Uma breve explicação do que o Projeto faz e do que o torna único
+O papel da IA na solução
+Capturas de ecrã ou uma demonstração curta
+Link para o código-fonte ou para uma demonstração funcional, quando aplicável
+As tecnologias utilizadas
+A Equipa pode ainda anexar uma apresentação curta ou vídeo de demonstração. Todos os anexos podem ser hospedados em serviços externos (Google Drive, GitHub, ou similares) e ligados a partir da descrição do Projeto. Em caso de dificuldade de acesso ao entregável, a Equipa afetada será notificada e é responsável por resolver a situação antes do início das apresentações finais; caso contrário, o Projeto poderá ser desqualificado.
+
+Cada Equipa garante que o conteúdo do seu Projeto resulta apenas do trabalho realizado durante o Evento. Caso existam suspeitas de contributos de terceiros ou de trabalho realizado antes do Evento, a Equipa poderá ser desqualificada.
+
+9. Processo de seleção
+As apresentações finais e a avaliação pelo Júri decorrem no último dia do Evento. Os Projetos são avaliados segundo os seguintes critérios:
+
+Inovação e originalidade (30%)
+Implementacao tecnica (30%)
+Impacto e potencial (20%)
+Apresentação e demonstração (20%)
+Fatores relacionados com aparência pessoal, opiniões religiosas, sindicais ou políticas, ou orientação sexual, nunca são considerados na seleção. Apenas 3 Projetos serão premiados, com os resultados anunciados no final do Evento.
+
+10. Direitos de imagem
+A utilização de fotografias ou imagens deve estar livre de direitos de autor de terceiros. O Organizador não será responsável pela utilização indevida de Propriedade Intelectual de terceiros por parte dos Participantes.
+
+11. Prémios
+As três melhores Equipas recebem créditos SpaceXAI para continuar a usar as ferramentas apresentadas no Evento:
+
+1º lugar: 2.000 USD em creditos Grok Build ou Cursor
+2º lugar: 1.000 USD em creditos Grok Build ou Cursor
+3º lugar: 500 USD em creditos Grok Build ou Cursor
+Todas as empresas participantes, vencedoras ou não, recebem ainda um mês grátis da versão Enterprise, com utilizadores e utilização ilimitados, e uma sessão de debriefing pós-evento com a equipa Enterprise da SpaceXAI.
+
+A atribuição dos Prémios depende do cumprimento integral destas Regras. Os Prémios não são transformáveis, substituíveis ou trocáveis por dinheiro, salvo decisão contrária do Organizador, e a sua venda ou troca é proibida. Em caso de indisponibilidade, o Organizador poderá substituir o Prémio por outro de valor semelhante.
+
+12. Propriedade intelectual
+Cada Projeto envolvendo vários Participantes constitui uma obra colaborativa. Cada Participante garante que é co-titular dos Direitos de Propriedade Intelectual sobre o Projeto de que faz parte, que obteve todas as permissões necessárias sobre elementos pré-existentes utilizados, e que o Projeto é original e não infringe direitos de terceiros. É obrigatório indicar a origem de qualquer elemento pré-existente (música, texto, imagens, etc.) incluído no Projeto.
+
+Durante e após o Evento, os Participantes mantêm o direito de usar e registar a Propriedade Intelectual resultante dos seus Projetos para uso pessoal e comercial próprio, desde que o Projeto possa continuar a ser exibido na plataforma TAIKAI.
+
+13. Comunicação
+Cada Participante autoriza o Organizador, caso seja nomeado Vencedor, a usar o seu nome, a cidade e região de residência, o nome da sua empresa, e a sua fotografia, em comunicação promocional relacionada com o Evento, durante um período máximo de 2 anos após o final do Evento, sem direito a qualquer remuneração por esse uso.
+
+14. Responsabilidade
+O Organizador não será responsável por falhas na rede de telecomunicações, no acesso à plataforma, ou por qualquer interrupção, suspensão ou cancelamento total ou parcial do Evento por motivos fora do seu controlo, informando os Participantes assim que possível. O Organizador também não será responsável pela desqualificação de um Participante ou Equipa por incumprimento destas Regras.
+
+15. Informação confidencial
+Durante o Evento e nos 5 anos seguintes, os Participantes comprometem-se a não usar informação confidencial partilhada pelo Organizador para fins alheios ao Evento, a proteger essa informação com o cuidado necessário, e a não a revelar a terceiros, exceto aos restantes membros da sua Equipa.
+
+16. Alterações às regras
+O Organizador reserva-se o direito de desqualificar, imediatamente e sem compensação, qualquer Participante ou Projeto que não cumpra integralmente estas Regras, e de alterar os termos destas Regras a qualquer momento, incluindo durante o Evento, informando os Participantes sempre que possível.
+
+17. Cancelamento e suspensão
+O Organizador reserva-se o direito de cancelar, encurtar ou suspender o Evento sem aviso prévio em caso de força maior ou de deteção de fraude, sem que isso dê origem a qualquer compensação aos Participantes.
+
+18. Reclamações e lei aplicável
+Qualquer reclamação deve ser enviada por escrito nos 30 dias seguintes ao final do Evento, identificando claramente o Participante, o Evento em causa, e os motivos da reclamação. Reclamações ligadas ao funcionamento da plataforma taikai.network devem ser dirigidas por escrito para: TAIKAI S.A., Via do Castelo do Queijo, 395, Piso 2, Loja 22 e 23 4100-429 Porto, Portugal. Estas Regras e o Evento regem-se pela lei portuguesa, sendo os tribunais do Porto competentes para qualquer litígio relacionado.
+
+Prémios (Versão Portuguesa)
+
+As três melhores equipas do Lab recebem créditos SpaceXAI para continuar a usar as ferramentas depois do evento:
+
+1º lugar: 2.000 USD em creditos Grok Build ou Cursor
+2º lugar: 1.000 USD em creditos Grok Build ou Cursor
+3º lugar: 500 USD em creditos Grok Build ou Cursor
+Além dos prémios para as equipas vencedoras, todas as empresas participantes recebem:
+
+Um mês grátis da versão Enterprise depois do evento, com utilizadores e utilização ilimitados
+Uma reunião de debriefing pós-evento com a equipa Enterprise da SpaceXAI, sobre implementação, preços e escala
+
+Categorias
+Automation
+AI applied to task and workflow automation
+
+Pick this if you want to take a manual, repetitive task off someone's plate. For example, auto-generating a weekly report that is currently built by hand, or having a first draft of a customer reply prepared automatically instead of from scratch.
+Data Handling
+AI applied to data handling and analysis
+
+Pick this if the problem is getting more value out of data you already have. For example, spotting patterns across years of sales records, or pulling a clear answer out of scattered spreadsheets and PDFs instead of searching through them by hand.
+Internal Processes
+AI applied to internal process improvement
+
+Pick this if your problem is about making an internal process faster, clearer, or less manual. For example, speeding up how invoices get approved, standardising how customer requests are logged, or reducing back and forth in an internal handover between teams.
+Other Business Needs
+AI applied to any other concrete business need
+
+Pick this if your problem is real and concrete but does not fit neatly into the categories above. As long as it is a genuine business need your company faces today, it belongs here.
+Tools and Features
+AI applied to building new tools or features
+
+Pick this if you want to add a new AI-powered feature to something you already offer, or build a small internal tool from scratch. For example, adding a smart search to your product, or building a simple assistant your team can use day to day.
+
+Perguntas Frequentes (Versão Portuguesa)
+
+1. Tenho de conhecer previamente as ferramentas da SpaceXAI? Não. As empresas selecionadas terão acesso a uma sessão introdutória gravada antes do evento, e o programa inclui uma sessão prática no primeiro dia.
+
+2. Posso participar sozinho? Sim. As equipas podem ter entre 1 e 5 participantes, desde que todos pertençam à empresa candidata.
+
+3. O que devo levar? O seu computador portátil e, se possível, um segundo ecrã de pequenas dimensões. Deve também assegurar os acessos aos sistemas ou recursos da empresa necessários para trabalhar sobre o problema apresentado.
+
+4. Tenho de levar um problema já identificado? Sim. O Laboratório de IA e Transformação Digital SpaceXAI foi concebido para trabalhar sobre problemas reais das empresas. O problema a desenvolver deverá ser identificado no formulário de candidatura e será considerado no processo de seleção.
+
+5. A empresa tem de pertencer a um setor específico? Não está prevista uma restrição setorial. A iniciativa dirige-se a PME portuguesas, e a adequação do problema apresentado constitui um dos elementos relevantes da seleção. Estão, no entanto, previstas as seguintes exclusões de setor e uso da tecnologia ou solução: defesa, armamento, uso ilegal ou abusivo.
+
+6. Em que língua decorre o Laboratório? O evento e as sessões de trabalho decorrem em inglês.
+
+7. A participação é paga? Não. A participação é gratuita, mas está sujeita a candidatura e seleção.

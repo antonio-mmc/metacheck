@@ -1,0 +1,54 @@
+{
+  "callCode": "MPR-2024-3",
+  "reply": "{\"callCode\":\"MPr-2024-3\",\"resultIndicators\":[\"RPR003\",\"RSR23\",\"RPR001\",\"RPR031\",\"RPR002\",\"RPR080\"],\"roModel\":\"best_n\",\"bestN\":2,\"weights\":[0.5,0.5],\"thresholdPct\":70,\"penaltyStepPp\":0.5,\"penaltyEveryPp\":2,\"penaltyMaxPp\":3,\"gcSteps\":[{\"abovePct\":65,\"upToPct\":70,\"penaltyPp\":0.5},{\"abovePct\":60,\"upToPct\":65,\"penaltyPp\":1},{\"abovePct\":50,\"upToPct\":60,\"penaltyPp\":1.5},{\"abovePct\":null,\"upToPct\":50,\"penaltyPp\":2}],\"preProjectYear\":{\"source\":\"fixed\",\"year\":2023},\"pages\":\"14-21\",\"supported\":true}",
+  "extracted": {
+    "callCode": "MPr-2024-3",
+    "resultIndicators": [
+      "RPR003",
+      "RSR23",
+      "RPR001",
+      "RPR031",
+      "RPR002",
+      "RPR080"
+    ],
+    "roModel": "best_n",
+    "bestN": 2,
+    "weights": [
+      0.5,
+      0.5
+    ],
+    "thresholdPct": 70,
+    "penaltyStepPp": 0.5,
+    "penaltyEveryPp": 2,
+    "penaltyMaxPp": 3,
+    "gcSteps": [
+      {
+        "abovePct": 65,
+        "upToPct": 70,
+        "penaltyPp": 0.5
+      },
+      {
+        "abovePct": 60,
+        "upToPct": 65,
+        "penaltyPp": 1
+      },
+      {
+        "abovePct": 50,
+        "upToPct": 60,
+        "penaltyPp": 1.5
+      },
+      {
+        "abovePct": null,
+        "upToPct": 50,
+        "penaltyPp": 2
+      }
+    ],
+    "preProjectYear": {
+      "source": "fixed",
+      "year": 2023
+    },
+    "pages": "14-21",
+    "supported": true
+  },
+  "reason": null
+}

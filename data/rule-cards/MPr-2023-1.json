@@ -1,0 +1,20 @@
+{
+  "callCode": "MPr-2023-1",
+  "resultIndicators": ["RPR003", "RSR23", "RPR001", "RPR031", "RPR002", "RPR080"],
+  "roModel": "best_n",
+  "bestN": 2,
+  "weights": [0.5, 0.5],
+  "thresholdPct": 85,
+  "penaltyStepPp": 0.5,
+  "penaltyEveryPp": 2,
+  "penaltyMaxPp": 3,
+  "gcSteps": [
+    { "abovePct": 75, "upToPct": 85, "penaltyPp": 0.5 },
+    { "abovePct": 65, "upToPct": 75, "penaltyPp": 1 },
+    { "abovePct": 50, "upToPct": 65, "penaltyPp": 1.5 },
+    { "abovePct": null, "upToPct": 50, "penaltyPp": 2 }
+  ],
+  "preProjectYear": { "source": "fixed", "year": 2022 },
+  "pages": "5, 7, 10-16",
+  "supported": true
+}
